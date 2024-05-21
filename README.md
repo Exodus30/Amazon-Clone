@@ -1,3 +1,4 @@
 # Amazon-Clone
-This is my first Git Respoditory
+This is my first Git Respoditory.
+<br>
 Author: Shubham Singh
